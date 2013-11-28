@@ -2,7 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
 \usepackage{hyperref, graphicx, verbatim, textcomp, booktabs, microtype, ntheorem}
-
+\usepackage{subfiles}
 \usepackage{fancyhdr}
 \setlength{\headheight}{15.2pt}
 \pagestyle{fancy}
@@ -28,6 +28,7 @@ Then we provide an experiment setup to test our theory. Finally we provide
 \section{Theory}
 
 \subsection{Bad Target Group}
+\subfile{targetgroup}
 \subsection{Cognitive Ease \& Affect}
 \emph{``When you are in a state of cognitive ease, you are probably in a good mood, like what you see, believe what you hear, trust your intuitions, and feel that the current situation is comfortably familiar.''}
 
@@ -47,6 +48,7 @@ be shown. If the only parts shown of the system are the parts that are good
 overall and do not criticize it.
 
 \subsection{Anchoring}
+\subfile{anchor}
 \subsection{Availability}
 \emph{``The availability heuristic, like other heuristics of judgment, substitutes one question for another: you wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind.''}
 
