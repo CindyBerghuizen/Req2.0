@@ -42,3 +42,8 @@ Answers You Will Get
 - Nonfuntional requirements *will they even buy it?
 - They will give you new features you did not thought about
 - They will find out what does not work.
+
+
+PAPERS (Will add them when I'm back to my place again):
+http://psycnet.apa.org/journals/psp/90/6/975/
+http://pubsonline.informs.org/doi/abs/10.1287/deca.1090.0136
