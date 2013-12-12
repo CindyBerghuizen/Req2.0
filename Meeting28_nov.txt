@@ -1,0 +1,39 @@
+conducting an experiment, that shows the effectiveness of different prototypes.
+(we have beliefs, constraints, domain knowledge)
+
+Building a prototype, you know which requirements get which form. You're validating or invalidating those requirements (i.e beliefs you have given form).
+
+
+DIfference between generic goal of a prototype. Goal of this assignment is to conduct the prototype, to get better understanding of prototyping. Thus gain understanding on the subject (of prototyping) finding the pitfalls.
+
+Questions
+  With what goal do you make a prototype?
+    * Get better understanding: Impression from 2D drawings is difficult. 3D scale representation its easier (for buying a house)
+    * Trying to refute the prototype / find errors. Prototype is a chance to isolate errors, before starting
+
+  Effectiveness of prototype
+    * Flaws/errors you find, 
+    * Estimation of errors in whole system is difficult
+    * If you bring some seeded errors in your product, the amount of errors that are not found is indication of total errors not found.
+      - Contradictory requirements
+    
+  What is a prototype?
+    * E-book prototype could be power point presentation (or hardcover book) / sophisticated software. We don't have to build an elaborate prototype.
+    * Not a whole system
+    * Parts that are most prone to mistakes/errors
+
+  How to prototype
+    * Show prototype -> ask people reaction
+    * Let people use prototype -> observe reactions
+    * What you often see, teams have been making requirements. They are proud of the prototype, thus glamorous way of presenting. Whatever you like to see
+      succesful product. It is a great pitfall, as you won't find flaws
+      - Stakeholders are cognitive ease (looks good, go on)
+      - Should bring people with domain knowlegde, critical view (not a stakeholder)
+      (halo effect if UI is nice)
+    
+  Where does Kahneman fit in?
+  
+    - (andere groep) Priming: woorden in presentatie om reactie vragen achteraf te beinvloeden (heavy - hoeveel weegt deze ipad)
+    - (andere groep2) Cognitive ease:
+                      Substitution:
+    
